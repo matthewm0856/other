@@ -1,0 +1,26 @@
+Github enables you to create directories. 
+Directories are basically folder. For example. You can create a folder and you can even create folders within a folder.
+Github also enables you to add foldiers from your repo. For us to do that, we use cs50.dev. This is where we can edit our repositories.
+Example:
+Directory
+1. Directory within a directory
+ 2. Directory within a directory that's within a directory.
+1. Directory within a directory
+Directory
+Directory
+
+How the code works:
+mkdir- makes directory
+cd- navigates into the directory
+rmdir- removes directory.
+git add- changes the working directory
+git commit- clones
+git push- uploads local repo into the remote repo
+git clone- adds SSH
+
+My takeaways were that I was able to take folders from my repo into the CS50. I was able to create folders and remove them.It
+just only took a fews steps before I could get into the repo. I was able to add and delete stuff.
+
+A challenge I faces was how to get into my cs50. I had to delete the numbers from the link and that was hard at first but when I kept
+practicing, I got used to it and it made it easier. Another challenge I faces was how to put a repo into my code. I just had to put the 
+SSH link in the repo.
